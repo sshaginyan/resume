@@ -1,0 +1,187 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "education": "",
+    "skills": "Technologies/Skills",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Steven Shaginyan",
+    "email": "SShaginyan@Gmail.com",
+    "phone": "818-388-0059",
+    "location": {
+      "address": "Los Angeles, California"
+    }
+  },
+  "education": [
+    {
+      "institution": "",
+      "location": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "location": "San Francisco, CA",
+      "website": "",
+      "endDate": "Current",
+      "highlights": [
+        "Delivered feature “Historical Revisions for Database Metadata” to enable data rollbacks and audit trails to close a $300K stalled deal.",
+        "Reduced time and cost complexity within Tableau infrastructure by migrating role- and attribute-based access controls.",
+        "Persuaded customers to substitute their in-house row-level security solution with a turn-key solution provided by Tableau with the intention of alleviating system resources."
+      ],
+      "position": "Sr. Product Manager @ Tableau",
+      "startDate": "Sep 2021",
+      "company": "Salesforce"
+    },
+    {
+      "highlights": [
+        "Increased partner engagement on enterprise deals by 1% by delivering educational content, such as webinars, hackathons, whiteboarding sessions, and speaking engagements.",
+        "Improved partner competency by 4% by developing curricula and authoring exams for Salesforce’s cloud offerings.",
+        "Collaborated with OEM partner Tanium and Salesforce Product Management teams in the creation of an ITSM solution to address the rapid expansion of a competitor."
+      ],
+      "position": "Sr. Manager, Partner Alliances @ Salesforce",
+      "startDate": "Nov 2020",
+      "endDate": "Sep 2021"
+    },
+    {
+      "highlights": [
+        "Evangelized Heroku at a large telecommunications company with an entrenched AWS base by uncovering use cases where Heroku would seamlessly complement the Salesforce Platform.",
+        "Demonstrated a POC to the CTO of a large casino by swapping TIBCO’s Enterprise Messaging Service with a Heroku Kafka cluster and in turn reduced the TCO for a group of services by 11%.",
+        "Promoted the usage of Heroku Postgres as a single source of truth for a multinational media conglomerate by demonstrating a POC to synchronize 5 million records across 8 Salesforce instances in under 20 minutes with conflict resolution implemented."
+      ],
+      "position": "Lead Technical Architect @ Salesforce (Heroku folded into Salesforce)",
+      "startDate": "Aug 2020",
+      "endDate": "Nov 2020"
+    },
+    {
+      "highlights": [
+        "Architected a fan-out service to democratize revenue data for financial analysts closing a $2M deal.",
+        "Designed and mutually constructed enterprise class, value-driven solutions for customers’ web properties, mobile applications, and digital experiences.",
+        "Educated customers on how to migrate computationally intensive processes off the Salesforce Platform onto Heroku, such as implementing recursive roll-ups, CPQ calculations, transformations, enrichment, cleansing, dimensionality reduction and proxying using NodeJS and Heroku compute units."
+      ],
+      "position": "Senior Solutions Engineer @ Heroku",
+      "startDate": "Feb 2018",
+      "endDate": "Aug 2020"
+    },
+    {
+      "highlights": [
+        "Fundamentals of JavaScript: values, types, operators, precedence, coercion, functions, first-class citizens, objects, arrays, (weak) sets, (weak) maps, higher-order functions, scope, closures, promises, asynchrony, paradigms, prototypical inheritance, variable hoisting, and API design.",
+        "Server-side development: multi-tier architecture, authentication strategies, RESTful API design, JS, Express, Networking, Wireshark, HTTP, CORS, Postgres, MongoDB, ORMs, BASH, MVC, Proxies, CDNs, SQL, SSR, templating, TLS, and Docker.",
+        "Client-side development: HTML, CSS, JS, DOM API, Chrome Dev Tools, browser events, browser networking, React, JSX, specificity, component lifecycle, Webpack, props system, pure & impure components, React state, React Router, Redux, Redux-Saga, isomorphism, transpilation, BootStrap 3/4, jQuery, axios, fetch.",
+        "Fundamentals of data science: perceptron, gradient descent, adaptive linear neurons, logistic regression, classifiers (scikit learn), decision trees, random forests, principal component analysis, linear discriminant analysis, principal components analysis, k-fold cross-validation, clustering analysis, convolutional neural network, recurrent neural network."
+      ],
+      "company": "UC Berkeley Extension",
+      "position": "Full-Stack Instructor / Data Science TA  ",
+      "location": "Berkeley, CA",
+      "startDate": "Jan 2017",
+      "endDate": "Aug 2018"
+    },
+    {
+      "highlights": [
+        "Built a data ingestion engine using APIs and web crawlers from Eat24, Yelp, Zomato, Delivery.com, and Singleplatform to populate and update food ordering app OrderWell.",
+        "Programmatically relayed food order placements from OrderWell to Eat24 and DoorDash to create a unified experience across multiple food ordering applications.",
+        "Created a CMS for managing restaurant and meal data used by business development to quickly onboard restaurant chains and improve quality."
+      ],
+      "company": "Zipongo",
+      "position": "Lead Full-Stack Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "Dec 2016",
+      "endDate": "Feb 2018"
+    },
+    {
+      "highlights": [
+        "Built and internally promoted a proof of concept for an online video player using Webpack, BackboneJS, VideoJS, and FreeWheel that later became the basis of the company’s core technology.",
+        "Created a web application that would ephemerally inject themed video players on publisher's pages for testing purposes, eliminating the need to conduct lengthy pre-sales PoCs.",
+        "Programmatically analyzed biometric patterns for identifying publishers affected by non-human traffic and reconciled with reports generated by ad servers to project true revenue potentials.",
+        "Designed variants of advertisement fraud detectors",
+        "Designed honey pot-based ad fraud prevention"
+      ],
+      "company": "Ulive -  Subsidiary of Scripps Networks Interactive",
+      "position": "Senior Full-Stack Engineer / Acting Tech Lead",
+      "location": "San Francisco, CA",
+      "startDate": "Jan 2015",
+      "endDate": "Sep 2016"
+    },
+    {
+      "highlights": [
+        null
+      ]
+    },
+    {
+      "highlights": [
+        "Extracted 51 applications from a worn PDP-11/03-L minicomputer and loaded them on a new Osprey emulation machine to improve availability, performance, and consistency of the machine.",
+        "Ported HP Basic quality assurance test applications to ANSI-C.",
+        "Swapped an old PIC microcontroller and its programming with a common AVR microcontroller for a hybrid test station and in turn reduced maintenance costs.",
+        "Eliminated manual execution of C++ tests by integrating with LabView with preliminary requirements of wrapping C++ functions with C functions, reducing complex data types, and avoiding function overloading."
+      ],
+      "company": "Natel Engineering",
+      "position": "Senior Software Engineer",
+      "location": "Chatsworth, CA",
+      "startDate": "Jan 2014",
+      "endDate": "Current (on call)"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        " JavaScript, TypeScript, Python, SQL, HTML, CSS, SASS, Scala, BASH, ZSH, Fish"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        " Postgres, MySQL, MongoDB, Elasticsearch, DynamoDB"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        " Kafka, Pulsar, RabbitMQ, ActiveMQ"
+      ],
+      "name": "Message Broker"
+    },
+    {
+      "keywords": [
+        "Terraform, Ansible"
+      ],
+      "name": "Infrastructure"
+    },
+    {
+      "keywords": [
+        "Heroku, Salesforce, Tableau, AWS, Docker"
+      ],
+      "name": "Platforms"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
